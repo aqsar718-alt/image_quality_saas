@@ -1,0 +1,10 @@
+streamlit
+opencv-contrib-python-headless
+pillow
+numpy
+pandas
+fpdf
+requests
+google-auth
+google-auth-oauthlib
+werkzeug
